@@ -1,0 +1,35 @@
+body{
+  background-color: lemonchiffon;  
+}
+​
+.title{
+    border:solid orange;
+    text-align: center;
+}
+.description{   
+    padding:12px;
+    margin:22px;
+}
+.SushiPic{
+    border:solid orange;
+    height:350px;
+    margin-left:25%;
+    border-radius:12px;
+}
+.ingredients{
+    text-align: center;
+}
+.items{
+    text-align: center;
+}
+​
+.stepContainer{
+    border:solid orange;
+    margin:12px;
+    padding:22px;
+}
+​
+.steps{
+text-align: center;
+margin:12px;
+}
